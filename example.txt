@@ -1,1 +1,1 @@
-stringx+1
+stringx-1
